@@ -14,7 +14,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-
+            _logger.Log(LogLevel.Information, "Page Loaded my friend");
         }
     }
 }
