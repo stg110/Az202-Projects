@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Hello-World/HelloWorld.csproj" />
   <Project Path="StockFinancialFunction/StockFinancialFunction.csproj" />
+  <Project Path="TestBlobStorage/TestBlobStorage.csproj" Id="c78d1baa-3a55-4611-9b58-5d2d4bb3c25b" />
 </Solution>
